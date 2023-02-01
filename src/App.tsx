@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { API_KEY } from "./config";
 
 interface Quote {
   quote: string;
@@ -35,8 +34,7 @@ const App = () => {
       method: "GET",
       //my process.env.api_key was not working so i have to put the whole key(So please donot misuse)
       headers: {
-        // "x-api-key": `${process.env.API_KEY}`,
-        "x-api-key": API_KEY,
+        "x-api-key":"F+N8cgwANtLlSyFyYszajg==2IhM8EBLLspCWw5w",
       },
     })
       .then((response) => response.json())
