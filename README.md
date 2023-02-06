@@ -14,17 +14,17 @@ A simple and easy-to-use application that generates quotes for you. It is built 
 
 ## Installation
 1. Clone this repository to your local machine
-``` 
-git clone https://github.com/CodeMode365/Quote-Generator.git 
-```
+    ``` 
+    git clone https://github.com/CodeMode365/Quote-Generator.git 
+    ```
 1. Navigate into Quote-Generator folder
-``` 
-cd Quote-Generator 
-```
+    ``` 
+    cd Quote-Generator 
+    ```
 1. Run the code into development environment
-```
-npm run dev 
-```
+    ```
+    npm run dev 
+    ```
 
 ## Usage
 * Click the Generate Quote button to display a new quote
