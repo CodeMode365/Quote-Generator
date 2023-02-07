@@ -7,6 +7,11 @@ A simple and easy-to-use application that generates quotes for you. It is built 
 * Allows the user to save their favorite quotes for later
 * Simple and intuitive UI design
 
+## Snapshot
+<p align="center">
+  <img src="https://i.postimg.cc/W3VBJqMq/Screenshot-66.png" height="350" width="450" alt="image-snapshot">
+</p>
+
 ## Tech Stack
 * HTML
 * CSS(SCSS)
