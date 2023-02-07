@@ -35,3 +35,5 @@ Contributions are always welcome! If you would like to contribute to this projec
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license
+
+* View Live 👉* [🚀👽](https://quote-gen-codemode365.netlify.app/)
