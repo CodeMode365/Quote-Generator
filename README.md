@@ -26,6 +26,10 @@ A simple and easy-to-use application that generates quotes for you. It is built 
     ``` 
     cd Quote-Generator 
     ```
+1. Install required packages
+    ```
+    npm install
+    ```
 1. Run the code into development environment
     ```
     npm run dev 
